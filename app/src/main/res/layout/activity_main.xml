@@ -8,6 +8,8 @@
 
     <com.example.mycustomviews1.CustomView
         android:id="@+id/customView"
+        app:square_color="@color/color_square"
+        app:square_size="@dimen/size_square"
         android:layout_width="match_parent"
         android:layout_height="350dp"/>
 
